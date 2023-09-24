@@ -1,0 +1,45 @@
+IDs:
+
+1.Bundesliga
+
+Bayern München id = 2
+Borussia Dortmund = 3
+Eintracht Frankfurt = 4
+SC Freiburg = 5
+Bayer Leverkusen = 7
+VfB Stuttgart = 9
+SV Werder Bremen = 10
+VFL Wolfsburg = 11
+FC Augsburg = 13
+TSG 1899 Hoffenheim = 14
+Borussia Mönchengladbach = 15
+Mainz 05 = 18
+VFL Bochum = 24
+1.FC Köln = 28
+Union Berlin = 40
+SV Darmstadt = 41
+RB Leipzig = 43
+Heidenheim = 50
+
+2.Bundesliga
+
+Hamburger SV = 6
+Schalke 04 = 8
+Fortuna Düsseldorf = 12
+1.FC Nürnberg = 16
+Hannover 96 = 17
+Greuther Fürth = 19
+Hertha BSC = 20
+Eintracht Braunschweig = 21
+Hansa Rostock = 23
+Karlsruher SC = 27
+SC Paderborn = 29
+1.FC Kaiserslautern = 30
+St.Pauli = 39
+1.FC Magdeburg = 48
+Holstein Kiel = 51
+
+
+
+
+
