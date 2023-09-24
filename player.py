@@ -19,5 +19,5 @@ class mongoDBPlayer:
         self.avgPoints= avgPoints
         self.totalPoints = totalPoints
         self.marketValue = marketValue
-        self.marketTrend = marketValue
+        self.marketTrend = marketTrend
         self.profilePictureBig = profilePictureBig

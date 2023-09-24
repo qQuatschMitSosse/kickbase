@@ -1,6 +1,7 @@
 from kickbase_api.kickbase import Kickbase
 from constants import NUTZERNAME,PASSWORD, BUNDESLIGAIDS
 from player import influxPlayer, mongoDBPlayer
+from kickbase_api.models import market_player
 
 kickbase = Kickbase()
 user, leagues = kickbase.login(NUTZERNAME,PASSWORD)
@@ -49,4 +50,6 @@ def getAllPlayers():
             playerList.append(player)
         playerList.append(players)
     return playerList
+
+
 
